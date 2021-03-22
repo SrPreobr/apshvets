@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: / 
+Allow: /index.html
+Allow: /about.html
+Allow: /exitdata.html
+Allow: /img/
+Sitemap: http:///www.vorota-sevastopol.ru/sitemap.xml
+Host: apshvets.ru/
