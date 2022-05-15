@@ -4,5 +4,9 @@ Allow: /index.html
 Allow: /about.html
 Allow: /exitdata.html
 Allow: /img/
-Sitemap: http:///www.vorota-sevastopol.ru/sitemap.xml
+
+Disallow: https://apshvets.ru/index.html
+Disallow: https://www.apshvets.ru/index.html
+
+Sitemap: http://apshvets.ru/sitemap.xml
 Host: apshvets.ru/
