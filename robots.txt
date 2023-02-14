@@ -5,8 +5,8 @@ Allow: /about.html
 Allow: /exitdata.html
 Allow: /img/
 
-Disallow: https://apshvets.ru/index.html
-Disallow: https://www.apshvets.ru/index.html
+# Disallow: https://apshvets.ru/index.html
+# Disallow: https://www.apshvets.ru/index.html
 
 Sitemap: http://apshvets.ru/sitemap.xml
 Host: apshvets.ru/
